@@ -7,6 +7,48 @@
   --vt-c-black: #181818;
   --vt-c-black-soft: #222222;
   --vt-c-black-mute: #282828;
+  --vt-c-pink: #FFC0CB;
+  --vt-c-green: #32CD32;
+  --vt-c-gray: #666666;
+  
+/* Dog API colors */
+--vt-c-blue: #0019FF;
+--vt-c-dark-purple: #714CFF;
+--vt-c-purple: #B17DFF;
+--vt-c-light-purple: #EDAFFF;
+--vt-c-light-pink:#FFE2FF;
+
+
+  /* Primary Colors */
+  --neon-pink: #FF77E9;
+  --electric-purple: #9B5DE5;
+  --cyan-blue: #00F5D4;
+  --vibrant-yellow: #FEE440;
+  --deep-magenta: #FF206E;
+  --background-purple: #262335;
+  --header-color: #2a2139;
+
+
+  /* Secondary Colors */
+  --dark-navy: #2A1E5C;
+  --midnight-blue: #120136;
+  --hot-orange: #FF7F11;
+  --turquoise-green: #1CE7C8;
+  --bright-lavender: #C77DFF;
+
+  /* Accent Colors */
+  --deep-aqua: #3E5481;
+  --pastel-pink: #FF99C8;
+  --steel-blue: #083D77;
+  --sunset-orange: #F49D37;
+  --violet-red: #E4007F;
+
+  /* Background and Shadow */
+  --void-black: #000000;
+  --shadow-purple: #1B1033;
+  --cosmic-blue: #22223B;
+  --smoke-gray: #4A4E69;
+  --galaxy-teal: #0D7377;
 
   --vt-c-indigo: #2c3e50;
 
@@ -26,6 +68,13 @@
   --color-background: var(--vt-c-white);
   --color-background-soft: var(--vt-c-white-soft);
   --color-background-mute: var(--vt-c-white-mute);
+  --color-link: var(--vt-c-green);
+  --color-border-input: var(--vt-c-text-dark-2);
+  --color-wrapper-border: var(--vt-c-white-soft);
+  --color-button: var(--vt-c-black);
+  --color-placeholder: var(--vt-c-black);
+  --color-button-text: var(--vt-c-white);
+  --input-color-text: var(--vt-c-black);
 
   --color-border: var(--vt-c-divider-light-2);
   --color-border-hover: var(--vt-c-divider-light-1);
@@ -41,9 +90,17 @@
     --color-background: var(--vt-c-black);
     --color-background-soft: var(--vt-c-black-soft);
     --color-background-mute: var(--vt-c-black-mute);
+    --color-link: var(--vt-c-green);
+    --color-placeholder: var(--vt-c-white);
+    --color-button: var(--vt-c-white);
+    --color-button-text: var(--vt-c-black);
+    --color-border-input: var(--vt-c-gray);
+    --color-wrapper-border: var(--vt-c-gray);
+    --input-color-text: var(--vt-c-white);
 
     --color-border: var(--vt-c-divider-dark-2);
     --color-border-hover: var(--vt-c-divider-dark-1);
+    --color-border-costume-pink: var(--vt-c-pink);
 
     --color-heading: var(--vt-c-text-dark-1);
     --color-text: var(--vt-c-text-dark-2);
